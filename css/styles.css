@@ -1,0 +1,8 @@
+body{
+    padding: 25px 100px ;
+    font-family: "Noto Sans", sans-serif;
+}
+/* las clases se llaman con un puntito: . y los ID con: #*/
+.FT1{
+    border-radius: 10px;
+}
